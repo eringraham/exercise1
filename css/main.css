@@ -36,3 +36,13 @@ body {
 .icon-shoe-01 {
     font-size: 10em;
 }
+
+.icon-shoe-01:hover {
+    color: darkgray;
+    font-size: 12em;
+}
+
+.icon-glasses-01:hover {
+    color: darkgray;
+    font-size: 12em;
+}
