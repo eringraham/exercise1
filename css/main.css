@@ -15,4 +15,10 @@ html {
 
 *, *::before, *::after {
     box-sizing: inherit;
+}
+
     
+.mainheader {
+    background: url("images/walking.jpg");
+    bacground-size: cover;
+}
