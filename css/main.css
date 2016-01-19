@@ -21,11 +21,16 @@ body {
     margin: 0;
 }
 
+
 .imgflx {
     width: 100%;
 }
 
 .iconset {
+    height: 100vh;
+    display: block;
+    background-image: url(images/walking.jpg);
+    background-size: cover;
     text-align: center;
 }
 
