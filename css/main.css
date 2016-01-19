@@ -17,8 +17,10 @@ html {
     box-sizing: inherit;
 }
 
-    
-.mainheader {
-    background: url("images/walking.jpg");
-    bacground-size: cover;
+body {
+    margin: 0;
+}
+
+.imgflx {
+    width: 100%;
 }
